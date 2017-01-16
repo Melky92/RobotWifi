@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:id="@+id/abrir_ojo"
+    android:oneshot="true"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:drawable="@drawable/p5" android:duration="@integer/transicion_parpadeo" />
+        <item android:drawable="@drawable/p4" android:duration="@integer/transicion_parpadeo" />
+        <item android:drawable="@drawable/p3" android:duration="@integer/transicion_parpadeo" />
+        <item android:drawable="@drawable/p2" android:duration="@integer/transicion_parpadeo" />
+        <item android:drawable="@drawable/p1" android:duration="@integer/transicion_parpadeo" />
+    </animation-list>
